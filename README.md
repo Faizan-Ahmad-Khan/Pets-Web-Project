@@ -1,7 +1,7 @@
 Welcome to Pawsvila, a website dedicated to all things furry, feathered, and scaly!
 
 Description:
-Pet Haven is a beautifully crafted website built using HTML5 and CSS3. It aims to create a virtual haven for pet lovers, offering a platform to learn about different pets, their care, adoption, and much more. The website boasts an intuitive and visually appealing design, making it easy to navigate and explore.
+Pawsvila is a beautifully crafted website built using HTML5 and CSS3. It aims to create a virtual haven for pet lovers, offering a platform to learn about different pets, their care, adoption, and much more. The website boasts an intuitive and visually appealing design, making it easy to navigate and explore.
 
 Features:
 Pet Profiles: Explore profiles of various pets, each with detailed information about breeds, characteristics, and care.
