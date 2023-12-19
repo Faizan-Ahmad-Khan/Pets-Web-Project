@@ -13,6 +13,6 @@ Technologies Used:
 HTML5: For structuring the website content.
 CSS3: Styling and layout design.
 Responsive Design: Media queries and flexible grids for responsiveness.
-Images and Media: Optimized images for fast loading and aesthetic appeal.
-Usage
-To access the website, simply open the index.html file in your preferred web browser.
+Images and Media: Optimized images for fast loading and aesthetic appeal.<br>
+
+Usage To access the website, simply open the index.html file in your preferred web browser.
